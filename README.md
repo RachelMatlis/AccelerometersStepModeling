@@ -1,5 +1,5 @@
 # Accelerometers Step Modeling
-Analysis of accelerometer values using Matlab
+Analysis of accelerometer signals using Matlab
 
 # Algorithm Components
 
