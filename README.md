@@ -1,4 +1,4 @@
-# Accelerometers Step Modeling
+# IMU - Accelerometers step modeling
 Analysis of accelerometer signals using Matlab
 
 # Algorithm Components
